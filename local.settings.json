@@ -1,0 +1,23 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "MerakiApiKey": "",
+    "MerakiTargetIp": "1.1.1.1",
+    "MerakiProbeTimespan": "120",
+    "AadTenantId": "",
+    "AadClientId": "",
+    "AadClientSecret": "",
+    "AzSubscriptionId": "",
+    "AzRouteTableResourceGroup": "",
+    "AzRouteTableName": "",
+    "AzRouteNames": "[\"UDR-1\",\"UDR-2\",\"UDR-3\",\"UDR-4\"]",
+    "BlobCnString": "",
+    "BlobContainerName": "merakiha",
+    "BlobName": "vMXHAPair",
+    "MaxLossPercent": "70",
+    "LogAnalyticsWorkspaceId": "<for Log Analytics Logging>",
+    "LogAnalyticsWorkspaceKey": "<for Log Analytics Logging>"
+  }
+}
